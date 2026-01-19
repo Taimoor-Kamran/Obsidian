@@ -240,10 +240,17 @@ Block comments can span multiple lines.
 
 #  Escaping Markdown Syntax
 
-Common characters to escape
-
+### Common characters to escape
 - Asterisk: `\*`
 - Underscore: `\_`
 - Hashtag: `\#`
 - Backtick: `` \` ``
 - Pipe (used in tables): `\|`
+- Tilde: `\~`
+
+\*This is text will not be italicized\*
+\_This is just simple text\_
+\#This is just simple text\#
+\`This is just simple text\`
+\|This is just simple text\|
+\~This is just simple text\~
