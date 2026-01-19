@@ -172,3 +172,21 @@ ____
 _ _ _
 ```
 _ _ _
+# Inline code
+
+Text inside `backticks` on a line will be formatted like code.
+# Code blocks
+
+`````
+cd ~/Desktop
+`````
+
+~~~
+cd ~/Desktop
+~~~
+
+
+~~~
+	cd ~/Desktop
+~~~
+
