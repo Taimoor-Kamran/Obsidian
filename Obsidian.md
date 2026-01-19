@@ -91,6 +91,7 @@ You can use `Shift+Enter` to insert a [line break](https://help.obsidian.md/s
 
 # Task lists
 
+```md
 - [x]  This is a completed task.
 - [ ] This is an incomplete task.
 
@@ -98,7 +99,76 @@ You can use `Shift+Enter` to insert a [line break](https://help.obsidian.md/s
 - [x]   Milk
 - [?] Eggs
 - [-] Eggs
+```
 
+- [x]  This is a completed task.
+- [ ] This is an incomplete task.
 
+- [x]   Milk
+- [?] Eggs
+- [-] Eggs
 # Nesting lists
 
+```md
+1. First list item
+   2. Ordered nested list item
+3. Second list item
+   - Unordered nested list item     
+```
+
+1. First list item
+   2. Ordered nested list item
+3. Second list item
+   - Unordered nested list item     
+
+```md
+- [ ] Task item 1
+      - [ ] Subtask 1
+- [ ] Task item 2
+      - [ ] Subtask 2
+```
+
+- [ ] Task item 1
+	- [ ] Subtask 1
+- [ ] Task item 2
+	- [ ] Subtask 2
+
+# Horizontal rule
+
+```md
+***
+```
+
+***
+```md
+****
+```
+****
+```md
+* * *
+```
+* * *
+```md
+---
+```
+---
+```md
+----
+```
+----
+```md
+- - -
+```
+- - - 
+```md
+___
+```
+___
+```md
+____
+```
+____
+```md
+_ _ _
+```
+_ _ _
