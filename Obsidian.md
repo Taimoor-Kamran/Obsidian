@@ -190,3 +190,38 @@ cd ~/Desktop
 	cd ~/Desktop
 ~~~
 
+# syntax highlighting
+
+`````js
+function fancyAlert(ary){
+	if(arg){
+	$ .facebox({div: `#foo`})
+	}
+}
+`````
+
+````md
+Here's how to create a code block:
+```js
+console.log("Hello world")
+```
+````
+````md
+```dataviewjs
+dv.paragraph(`
+~~~mermaid
+graph TD
+	A --> B
+`)
+```
+````
+
+```
+This is a simple footnote[^1].
+
+[^1]: This is the referenced text.
+[^2]: Add 2 spaces at the start of each new line.
+	This lets you write footnotes that span multiple lines.
+[^note]: Named footnotes still appear as number, but can make it easier to identify and link references.
+```
+
