@@ -225,3 +225,25 @@ This is a simple footnote[^1].
 [^note]: Named footnotes still appear as number, but can make it easier to identify and link references.
 ```
 
+```
+You can also use inline footnotes. ^[This is an inline footnote.]
+```
+
+# Comments
+
+This is an %%inline%% comment.
+
+%% This is a block comment.
+
+Block comments can span multiple lines.
+ %%
+
+#  Escaping Markdown Syntax
+
+Common characters to escape
+
+- Asterisk: `\*`
+- Underscore: `\_`
+- Hashtag: `\#`
+- Backtick: `` \` ``
+- Pipe (used in tables): `\|`
