@@ -1,3 +1,5 @@
+Obsidian is the private and flexible writing app that adapts to the way you think.
+
 This is a paragraph.
 
 **This is another paragraph.**
@@ -254,3 +256,4 @@ Block comments can span multiple lines.
 \`This is just simple text\`
 \|This is just simple text\|
 \~This is just simple text\~
+
