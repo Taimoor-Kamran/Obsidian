@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc3a1d2252a1724",
+        "id": "2e9e299b45f29d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "813261750325fdc0",
+            "id": "9fedeb970d694bbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First_note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First_note"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First_note"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from First_note"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First_note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of First_note"
+              "title": "Outline"
             }
           }
         ]
@@ -183,15 +176,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "813261750325fdc0",
+  "active": "9fedeb970d694bbe",
   "lastOpenFiles": [
-    "Three laws of motion.md",
     "First_note.md",
+    "Three laws of motion.md",
+    "Isaac Newton.md",
+    "Untitled.canvas",
+    "Github Taimoor Kamran.md",
+    "Law of Inertia.md",
     "Link notes.md",
     "Welcome.md",
     "Pasted image 20260119180601.png",
     "create a link.md",
-    "Github Taimoor Kamran.md",
     "heard.md.md"
   ]
 }
