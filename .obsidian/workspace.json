@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -176,7 +177,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9fedeb970d694bbe",
+  "active": "b2c907630e4b1119",
   "lastOpenFiles": [
     "First_note.md",
     "Three laws of motion.md",
