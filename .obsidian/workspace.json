@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e9e299b45f29d6a",
+        "id": "10e76d31f78d80c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9fedeb970d694bbe",
+            "id": "7e7b76388fcbc58c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -177,12 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2c907630e4b1119",
+  "active": "7e7b76388fcbc58c",
   "lastOpenFiles": [
+    "Advanced formatting syntax.md",
+    "Untitled.canvas",
     "First_note.md",
     "Three laws of motion.md",
     "Isaac Newton.md",
-    "Untitled.canvas",
     "Github Taimoor Kamran.md",
     "Law of Inertia.md",
     "Link notes.md",
