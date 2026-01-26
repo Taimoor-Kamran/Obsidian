@@ -14,3 +14,7 @@
 | Marie      | Curie     |
 #### Format content within a table
 
+| First column   | Second column                           |
+| -------------- | --------------------------------------- |
+| [[First_note]] | Link to a file _within_ your **vault**. |
+|                |                                         |
