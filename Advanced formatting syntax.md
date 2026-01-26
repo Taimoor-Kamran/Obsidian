@@ -53,7 +53,14 @@ Content | Content | Content
 
 #### Diagram
 
+#### Flowchart Diagram
+
 ```mermaid
 flowchart TD
-
+A[Christmas] -->|Get money| B[Go shopping]
+--> C{let me think}
+C -->|one| D[Laptop]
+C -->|two| E[iphone]
+C -->|three| F[fa:fa-car Car]
 ```
+
