@@ -1,7 +1,9 @@
 
+## Tables
+
 | First name | Last name |
-| ---------- | --------- |
-| Max        | Planck    |
-| Marie      | Curie     |
+| ---------- | :-------: |
+| Max        |  Planck   |
+| Marie      |   Curie   |
 
 
